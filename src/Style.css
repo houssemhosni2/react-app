@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+ .App .title{
+  color: white;
+  padding: 40px;
+}
+.App .red{
+  background-color: blue;
+  margin: 40px 100px;
+}
